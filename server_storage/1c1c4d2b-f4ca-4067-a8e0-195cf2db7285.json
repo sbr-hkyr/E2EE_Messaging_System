@@ -1,0 +1,11 @@
+{
+    "message_id": "1c1c4d2b-f4ca-4067-a8e0-195cf2db7285",
+    "sender": "Ali",
+    "recipient": "Aisya",
+    "encrypted_message": {
+        "nonce": "wX50Yrza+RJfoZtO",
+        "ciphertext": "hDTvFs9fxS8QoWl3oALUIqvqPp0wVat/SX1BspzpPS6gBRbvneMTS2JVBD8D0siPUCLDpUdVn5Dq5KjEwgaM/EOK94E73ZhT",
+        "encrypted_session_key": "Qvp/+/ln9RED42byecfHUWs5LKQ9a7WRfMB3VbaD+bm8gNSXbDzgiFxhZ7238ZhdFM6r12WPoVYnGQBy+nsZzjl1czTgTFbEp2x8BeiHp4xnl7HmEdvE2tVnzmbxi3lH+zYAYAza4VPWqjKLkhHtnXLB6bFjvy5eCtwQ35QWJ31Lx4A/XI6ATO8Gq10PlGt6KObVmppoTYNVUChSR7WEAUv+91jBvUwPBkn6gab4pY9yRbHw32LL+ogLLc15PyDJynzMVsgwfn2AH2JrW7DEE9ND8V04oIa5gphEzrJy0BwfZYsN02VGFE+Gcn3V1kBq0ReLmR4sJShAJW5z4BYPXw==",
+        "signature": "EfKCycqBr5H94OKT1dFOG/mgjHi+TzVE/4KAUOaDo2P9Wt0gjEHh+KgO3MzRUjKueYcmPoZecYCJu6O4MuYQ7wODQcmpft4dSZOcTjpRmdSJkndmYJAjY/A6ehc4Ua202bBS93u58drhRq6/l77h2nBPDPFs3juqxasLEdp3chIuzj8PTo7OlYtstICCR9jzaaGCnEkpc6fMigX0Ky/W7nlpRJFpdRAKFl6SyxEYSJlSm7uZM2BfSY4AxTT4adKivbMpkKDUafV7UA9PmpaDpyzn4uiPdC1OdGdB2tfsxSywOVDMvSZc/Kfhiv/kgBTodkEoZF5M4ESAsAKJD8V/Ug=="
+    }
+}
